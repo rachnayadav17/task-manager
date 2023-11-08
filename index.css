@@ -80,3 +80,17 @@ th {
     color: black;
     font-weight: bold;
 }
+.error-input {
+    border: 1px solid red;
+  }
+  
+  .error-message {
+    font-size:small;
+    color: red;
+    margin-bottom: 5px;
+    text-align: start;
+  }
+
+  #deleteButton:hover{
+    background-color: red;
+  }

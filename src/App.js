@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "../index.css";
-import TaskManager from "./components/taskmanager";
+import TaskManager from "./components/Taskmanager";
 
 const AppLayout = () => {
   return (
