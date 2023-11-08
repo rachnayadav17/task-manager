@@ -1,4 +1,4 @@
-# task-manager
+# task-manager-ui
 
 ## Steps to Setup application
 1. Configure backend application with given steps in this repository - https://github.com/rachnayadav17/task-manager-backend
